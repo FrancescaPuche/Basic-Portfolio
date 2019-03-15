@@ -45,7 +45,7 @@ h2, h3 {
 #headerBar { 
     background-color: #ffff;
     margin: 0 0 30px;
-    z-index: 99; 
+    
     color: #fff; 
     overflow: auto; 
     border-bottom: 2px; 
