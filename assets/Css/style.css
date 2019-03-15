@@ -45,7 +45,6 @@ h2, h3 {
 #headerBar { 
     background-color: #ffff;
     margin: 0 0 30px;
-    
     color: #fff; 
     overflow: auto; 
     border-bottom: 2px; 
@@ -111,10 +110,14 @@ nav a:first-child {
 
 .images { 
     width: 200px; 
-    height: 225px; 
+    height: auto; 
     margin-top: 5px; 
     float: left;
     margin-right: 25px; 
+}
+
+#myPicture { 
+    height: 225px;
 }
 
 
