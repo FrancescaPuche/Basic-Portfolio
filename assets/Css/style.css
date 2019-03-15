@@ -7,7 +7,7 @@ body {
     background-image: url(../Images/background-cement-concrete-242236.jpg);
     font-size: 18px;
     line-height:34px; 
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
     color: #7777;
 }
 
@@ -111,8 +111,8 @@ nav a:first-child {
 
 .images { 
     width: 200px; 
-    height: auto; 
-    margin-top: 10px; 
+    height: 225px; 
+    margin-top: 5px; 
     float: left;
     margin-right: 25px; 
 }
@@ -121,7 +121,6 @@ nav a:first-child {
 /* Portfolio Page */ 
 .projects { 
     width: 274px; 
-    overflow: auto; 
     position: relative; 
     float: left;
     margin: 20px 2 25px; 
@@ -132,7 +131,7 @@ nav a:first-child {
 }
 
 .projects img { 
-    width: 80%; 
+    width: 60%; 
     border: 0; 
     border-style: none; 
     opacity: 80%; 
@@ -146,7 +145,7 @@ nav a:first-child {
     position: absolute; 
     bottom: 20px; 
     padding: 15px;
-    width: 80%;
+    width: 60%;
     line-height: 30px; 
     margin-bottom: 0;
     font-weight: 300;
